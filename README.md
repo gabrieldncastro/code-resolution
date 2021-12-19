@@ -17,7 +17,7 @@ Lista de exercícios:
 10. Leia uma velocidade em km/h e apresente-a convertida em m/s.
 11. Leia uma velocidade em m/s e apresente-a convertida em km/h
 12. Leia uma distância em milhas e apresente-a convertida em quilômetros.
-13. Leia uma distância em milhas e apresente-a convertida em quilômetros.
+13. Leia uma distância em quilômetros e apresente-a convertida em milhas.
 14. Leia um ângulo em graus e apresente-o convertido em radianos.
 15. Leia um ângulo em radianos e apresente-o convertido em graus.
 16. Leia um valor de comprimento em polegadas e apresete-o convertido em centímetros.
