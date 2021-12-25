@@ -3,7 +3,7 @@
 
  Curso adquirido na plataforma Udemy.
 
-Lista de exercícios:
+Lista de exercícios (você ira encontrar as informações mais detalhadas para a resolução dos exercícios no arquivo "Python Exercicios.pdf"):
 
 01. Faça um programa que leia um número inteiro e o imprima.
 02. Faça um programa que leia um número real e o imprima.
