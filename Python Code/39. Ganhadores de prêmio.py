@@ -1,4 +1,4 @@
-""" """
+""" Cálculo da divisão de um prêmio. O primeiro ganhador receberá 46% do total. O segundo 32% e o terceiro o resto."""
 
 total = 780000.00
 ganhador1 = float(total * 0.43) 
