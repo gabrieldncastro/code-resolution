@@ -1,7 +1,4 @@
-"""    """
-
-from typing import Annotated
-
+""" """
 
 num = int(input("Digite um número inteiro: "))
 ant = (num * 3) + 1
