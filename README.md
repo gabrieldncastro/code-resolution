@@ -3,7 +3,7 @@
 
  Curso adquirido na plataforma Udemy.
 
-Lista de exercícios:
+Lista de exercícios (você ira encontrar as informações mais detalhadas para a resolução dos exercícios no arquivo "Python Exercicios.pdf"):
 
 01. Faça um programa que leia um número inteiro e o imprima.
 02. Faça um programa que leia um número real e o imprima.
@@ -39,22 +39,22 @@ Lista de exercícios:
 32. Leia um número inteiro e imprima a soma do sucessor de seu triplo com o antecessor de seu dobro.
 33. Leia o tamanho do lado de um quadrado e imprima como resultado a sua área.
 34. Leia o valor do raio de um círculo e calcule e imprima a área do círculo correspondente.
-35. 
-36. 
-37. 
-38. 
-39. 
-40. 
-41. 
-42. 
-43. 
-44. 
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-52. 
-53. 
+35. Faça um programa que receba os valores de a e b e calcule o valor da hipotenusa através da equação. Imprima o resultado dessa operação.
+36. Leia a altura e o raio de um cilindro circular e imprima o volume do cilindro.
+37. Faça um programa que leia o valor de um produto e imprima o valor com desconto.
+38. Leia o salário de um funcionário. Calcule e imprima o valor do novo salário.
+39. Divida o valor atribuido no exercicio por três ganhadores conforme a porcentagem pedida.
+40. Faça um programa que solicite o número de dias trabalhados por um encanador e imprima a quantia líquida que deverá ser paga. 
+41. Faça um programa que leia o valor da hora de trabalho (em reais) e número de horas trabalhadas no mês.
+42. Receba o salário-base de um funcioário, calcule e imprima o salário a receber.
+43. Escreva um programa que ajuda para vendedores.
+44. Receba a altura do degrau de uma escada e a altura que o usuário deseja alcançar subindo a escada.
+45. Faça um programa para converter uma letra maiúscula em uma letra minúscula (conforme a tabela ASC II)
+46. Fala um programa que leia um número inteiro positivo de três digitos e gere outro número formado pelos dígitos invertidos do número lido.
+47. Leia um níumero inteiro de 4 dígitos e imprima um dígito por linha.
+48. Leia um valor inteiro em segundos e imprima-o em horas, minutos e segundos.
+49. Faça um programa para ler o horário de inicio e a duração de uma experiência biológica.
+50. Implemente um programa que calcule o ano de nascimento de uma pessoa a partir de sua idade e do ano atual.
+51. Escreva um programa que leia as coordenadas x e y de pontos no R2 e calcule sua distância de origem (0,0).
+52. Três amigos jogaram na loteria. Caso ganhem, faça um programa que calcule a porcentagem que receberiam a partir do valor investido
+53. Faça um programa para ler as dimensões de um terreno, bem como o preço do metro da tela. Imprima o custo para cercar este mesmo terreno com a tela.
